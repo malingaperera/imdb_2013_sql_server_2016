@@ -2,4 +2,4 @@
 
 Builds a Microsoft SQL Server 2016+ relational database from 2013 IMDb data files, for Join Order Benchmark (JOB) queries.
 
-For more information: 
+For more information: https://www.malinga.me/microsoft-sql-server-2016-database-with-imdb-2013-dataset/
